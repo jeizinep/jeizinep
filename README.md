@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Pascal 👋
 
-<!--
-**jeizinep/jeizinep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🧬
+Based in Basel, Switzerland, I'm currently pursuing a degree in Biomedical Engineering at FHNW Muttenz. Before this, I honed my skills as a Bio Lab Technician at a major pharmaceutical firm. My passion lies at the intersection of biology and technology, especially in the development of brain-machine interfaces.
 
-Here are some ideas to get you started:
+## Interests 🔬
+- **Biomedical Engineering**: Exploring the fusion of biology and engineering principles to innovate healthcare solutions.
+- **Brain-Machine Interfaces**: Aspiring to contribute to the advancement of neural technologies that can enhance human capabilities.
+- **Research and Development**: Keen on participating in cutting-edge research, particularly in neuroscience and computational biology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 🎓
+- **Bachelor's in Biomedical Engineering**, FHNW Muttenz (Current)
+- **Bio Lab Technician Apprenticeship**, F. Hoffmann La-Roche Ag
+
+## Future Goals 🌟
+- Complete my undergraduate degree and pursue a Master's in Neural Systems and Computation at ETH Zurich.
+
+## Hobbies and Interests ⛷️
+- **Outdoor Activities**: Avid climber and skiing enthusiast.
+- **Socializing**: Love going out with friends and engaging in lively discussions, especially on scientific topics.
+
+## Let's Connect! 🌐
+- **Email**: pascal.jeiziner@students.fhnw.ch
+
+
