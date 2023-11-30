@@ -20,6 +20,6 @@ Based in Basel, Switzerland, I'm currently pursuing a degree in Biomedical Engin
 - **Socializing**: Love going out with friends and engaging in lively discussions, especially on scientific topics.
 
 ## Let's Connect! 🌐
-- **Email**: pascal.jeiziner@students.fhnw.ch
+- **Email**: contact@jeizilabs.com
 
 
